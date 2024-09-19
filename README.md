@@ -1,4 +1,4 @@
-Run classification.ipynb directly
+Run main.ipynb directly
 
 Dependencies:
 
