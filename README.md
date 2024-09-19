@@ -3,13 +3,21 @@ Run main.ipynb directly
 Dependencies:
 
 qiskit                        0.46.0
+
 qiskit-aer                    0.13.3
+
 qiskit-ibm-runtime            0.20.0
+
 qiskit-terra                  0.46.0
+
 torch                         2.4.0
+
 torch_geometric               2.5.3
+
 torchdiffeq                   0.2.4
+
 torchpack                     0.3.1
+
 torchquantum                  0.1.8
 
 Install Torchquantum:
