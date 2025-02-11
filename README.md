@@ -1,4 +1,4 @@
-## QCNN project
+## QGCN project
 ### Run
 ```
 Run main.ipynb directly
