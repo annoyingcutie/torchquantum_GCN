@@ -23,4 +23,6 @@ pip install git+https://github.com/mit-han-lab/torchquantum.git
 Torchquantum is currently incompatible with Qiskit>=1.0.0
 
 ### Reference
-[S. Wei, Y. Chen, Z. Zhou, and G. Long, “A Quantum Convolutional Neural Network on NISQ Devices,” arXiv.org, 2021. https://arxiv.org/abs/2104.06918 ]
+[Z. Hu et al., “On the Design of Quantum Graph Convolutional Neural Network in the NISQ-Era and Beyond,” 2022 IEEE 40th International Conference on Computer Design (ICCD), pp. 290–297, Oct. 2022, doi: https://doi.org/10.1109/iccd56317.2022.00050.]
+
+‌
